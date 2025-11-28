@@ -1,1 +1,2 @@
 # MindPower
+# About MindPower
