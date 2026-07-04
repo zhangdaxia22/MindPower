@@ -99,8 +99,8 @@ from openai import OpenAI
 import openai
 client = OpenAI(
     # If environment variables are not configured, replace the following line with: api_key="sk-xxx",
-    api_key="sk-8711835d617a49fb9b5fad8da99a33cd",
-    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+    api_key="",
+    base_url="",
 )
 prompt = """
 You are an atomic reasoning extraction system.
